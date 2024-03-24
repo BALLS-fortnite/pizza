@@ -1,0 +1,12 @@
+body{
+font-family:"Comic Sans MS";
+color:pink;
+background-color:lightgreen;
+}
+p{
+color:red;
+}
+
+.title{
+text-align: center;
+}
